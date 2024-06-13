@@ -1,5 +1,5 @@
 def contador_de_vocales(palabras):
-    vocales = 'aeiouAEIOU'
+    vocales = 'aeuAEIOU'
     contador = 0
     for caracter in palabras:
         if caracter in vocales:
